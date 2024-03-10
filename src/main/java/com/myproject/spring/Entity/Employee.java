@@ -1,4 +1,4 @@
-package com.myproject.spring.entity;
+package com.myproject.spring.Entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
